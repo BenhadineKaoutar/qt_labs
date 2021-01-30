@@ -6,4 +6,6 @@ Felgo is a cross-platform application development solution, based on the Qt fram
 
 Code savings are not limited to the Qt world, but Felgo is a lot less verbose also compared to native development and competing cross-platform solutions.
 
-![felgo-code-saving-property-cross](https://qmlbook.github.io/_images/felgo-code-saving-property-cross.png)
+<p align="center">
+  <img  src="https://qmlbook.github.io/_images/felgo-code-saving-property-cross.png">
+</p>
